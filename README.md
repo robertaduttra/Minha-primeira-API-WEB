@@ -1,2 +1,1 @@
-# Criando uma API REST
-Documentada com Spring Web
+# Criando uma API REST Documentada com Spring Web
